@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SohagTourGuide</string>
+    <string name="place_name_1">Abydos City</string>
+    <string name="place_det_1">Abydos city, 135 km from Luxor. There you will visit Abydos temple where the ancient Egyptian believed of god (Lord of the underworld) to be buried there. The temple was built by King Seti I, and completed by King Ramsess II, known as temple of Seti I. The paintings of the gods and Pharaohs on the walls of the Osiris Temple at Abydos are among the most beautifully preserved in Egypt. Getting to these sites you will pass by local villages and majestic sceneries for the River Nile and the fields.</string>
+    <string name="place_name_2">Sidi Arif Mosque</string>
+    <string name="place_det_2"> The mosque is located in the south of the city. The el-Arif Mosque was built in the 14th century (the 8th century of the Islamic calendar). The present building was constructed around 1995. At the corners of the façade are two minarets, and the roof is crowned by a dome. Inside the five-naves mosque the bases of the piers and the walls were lined with red granite. The ceiling is painted ornamentally; in its middle is an elongated light dome. The southeastern half is lit by chandeliers. At the end there are the prayer niche (mihrab) with simple ornaments and to the right of it the wooden pulpit (minbar).</string>
+    <string name="place_name_3">El-Farshuti Mosque</string>
+    <string name="place_det_3">The el-Fashuti Mosque also named el-Atiq Mosque (the old mosque) is located approximately 350 metres (1,150 feet) southwest of the Sidi Arif Mosque . The most striking feature of the mosque is its 53-metre-high (174-foot) minaret in the southeast corner. The minaret has galleries with balustrades on four floors. The mosque is a modern, bright building. The mosque is divided into five naves by columns and pillars. It has a light dome in the middle which is inscribed at the bottom with a sura from the Qur'an. The bases of the walls are painted yellow and white with green bands. A very colorful prayer niche next to the wooden pulpit is located at the southeast side.</string>
+    <string name="place_name_4">The Church of the Holy Virgin</string>
+    <string name="place_det_4">The church is located in the north of the bazaar (souq Qaiariya). It consists of five naves. There are three sanctuaries for Saint George (left), the Holy Virgin and the Archangel Michael at the ends of the middle three naves. All sanctuaries are completely screened by a wooden iconostasis. On both sides of the entrances to the sanctuaries are wooden icons of the Holy Virgin and Jesus (see Iconostasis). The Lord's Last Supper and the crosses are located above the iconstasis. The presentation in the central nave is framed by a fish and a pigeon, the other ones are framed by angels and a dove. Galleries are located above the aisles and the entrance. On the walls, there are paintings of saints and scenes from the life of Jesus.</string>
+    <string name="place_name_5">White Monastery</string>
+    <string name="place_det_5">The Coptic White Monastery is a Coptic Orthodox monastery named after Saint Shenouda the Archimandrite. It is located about 5 kilometres (3.1 miles) west of Sohag. The name of the monastery is derived from the color of the white limestone of its outside walls. The surviving building is the church of what was once a much larger monastery complex.</string>
+    <string name="place_name_6">Red Monastery</string>
+    <string name="place_det_6">The Red Monastery is a Coptic Orthodox monastery named after an Egyptian saint called Pishay. It is located about 5 kilometres (3.1 miles) north of the White Monastery. The name of the monastery is derived from the color of the construction material of its outside walls, consisting of red (burnt) brick. These walls are considerably thicker at the base than at the top, and just like the walls of Ancient Egyptian temples, they are surmounted by cavetto moldings. The Red Monastery is architecturally similar to the White Monastery. In the masonry on the east, south and west sides are stones engraved with historic inscriptions moved from previous buildings, including a decree of the penultimate Mamluk sultan al-Ghawri (1441–1516) from the year 1506 (911 AH) on the southeast side.</string>
+    <string name="res_name_1">Restaurant Moamen</string>
+    <string name="res_det_1">Al Gomhuriyya Road, Sohag, Egypt</string>
+    <string name="res_name_2">El Masawy</string>
+    <string name="res_det_2">Abou El Qassem St., Sohag, Egypt</string>
+    <string name="hotel_name_1">House of life Abydos</string>
+    <string name="hotel_det_1">Abydos Road, Sohag 82825, Egypt</string>
+    <string name="hotel_name_2">El Safa Hotel</string>
+    <string name="hotel_det_2">El Gomhoria Street, Sohag, Egypt</string>
+    <string name="hotel_name_3">Al-Nile Hotel</string>
+    <string name="hotel_det_3">El-Gamah Street, Sohag, Egypt</string>
+</resources>
